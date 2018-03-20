@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Server - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "D:\DOCUME~1\ktsuser\LOCALS~1\Temp\RSP4EC.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Server.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\Server.cpp"
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\MainFrm.cpp"
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\ServerDoc.cpp"
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\ServerView.cpp"
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\ServerSocket.cpp"
+"E:\Users\Tom\Projects\Educational CD's\VC ++\Unedited\Source\Tutorial 5\Server\RecevingSocket.cpp"
+]
+Creating command line "cl.exe @D:\DOCUME~1\ktsuser\LOCALS~1\Temp\RSP4EC.tmp" 
+Creating temporary file "D:\DOCUME~1\ktsuser\LOCALS~1\Temp\RSP4ED.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Server.pdb" /debug /machine:I386 /out:"Debug/Server.exe" /pdbtype:sept 
+".\Debug\Server.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\ServerDoc.obj"
+".\Debug\ServerView.obj"
+".\Debug\Server.res"
+".\Debug\ServerSocket.obj"
+".\Debug\RecevingSocket.obj"
+]
+Creating command line "link.exe @D:\DOCUME~1\ktsuser\LOCALS~1\Temp\RSP4ED.tmp"
+<h3>Output Window</h3>
+Compiling...
+ServerSocket.cpp
+RecevingSocket.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+Server.cpp
+MainFrm.cpp
+ServerDoc.cpp
+ServerView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Server.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

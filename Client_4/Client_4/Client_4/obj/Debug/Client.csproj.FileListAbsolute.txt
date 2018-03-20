@@ -1,0 +1,15 @@
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\bin\Debug\Client_4.exe.config
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\bin\Debug\Client_4.exe
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\bin\Debug\Client_4.pdb
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Interop.LCC11.dll
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Interop.MsoEuro.dll
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Interop.OSE.dll
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Interop.XDocsDesigner.dll
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client_4.Client.resources
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client_4.Properties.Resources.resources
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client_4.exe
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client_4.pdb
+C:\Users\DEEPANKAR\Desktop\Client_4\Client_4\obj\Debug\Client.csprojResolveAssemblyReference.cache
